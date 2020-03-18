@@ -2,7 +2,7 @@
 > my practice hub: keep going deep，reuse solution，new technology learning
 
 ## cloud native
-- [k8s-practice](https://github.com/xiaozhiliaoo/k8s-practice): k8s-practice
+- [k8s-practice](https://github.com/xiaozhiliaoo/k8s-practice): k8s-practice 
 - [docker-practice](https://github.com/xiaozhiliaoo/docker-practice): docker-practice
 
 ## language
@@ -44,3 +44,5 @@
 ## database 
 - [mysql-practice](https://github.com/xiaozhiliaoo/mysql-practice): mysql-practice
 
+## notes
+- [geektime-notes](https://github.com/xiaozhiliaoo/geektime-notes): geektime-notes
