@@ -9,7 +9,7 @@
 - [linux-practice](https://github.com/xiaozhiliaoo/linux-practice):linux-practice
 
 ## language
-- [thinkinginjava-practice](https://github.com/xiaozhiliaoo/thinkinginjava-practice): thinkinginjava-practice
+- [thinkinginjava-practice](https://github.com/xiaozhiliaoo/thinkinginjava-practice): thinkinginjava-practice <font color=green>**`recommend`**</font>
 - [go-practice](https://github.com/xiaozhiliaoo/go-practice): go-practice
 - [python-practice](https://github.com/xiaozhiliaoo/python-practice): python-practice
 - [javascript-practice](https://github.com/xiaozhiliaoo/javascript-practice): javascript-practice
