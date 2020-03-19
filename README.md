@@ -5,6 +5,9 @@
 - [k8s-practice](https://github.com/xiaozhiliaoo/k8s-practice): k8s-practice 
 - [docker-practice](https://github.com/xiaozhiliaoo/docker-practice): docker-practice
 
+## linux
+- [linux-practice](https://github.com/xiaozhiliaoo/linux-practice):linux-practice
+
 ## language
 - [thinkinginjava-practice](https://github.com/xiaozhiliaoo/thinkinginjava-practice): thinkinginjava-practice
 - [go-practice](https://github.com/xiaozhiliaoo/go-practice): go-practice
