@@ -3,17 +3,17 @@
 
 ## cloud native
 - [k8s-practice](https://github.com/xiaozhiliaoo/k8s-practice): k8s-practice 
-- [docker-practice](https://github.com/xiaozhiliaoo/docker-practice): docker-practice
+- [docker-practice](https://github.com/xiaozhiliaoo/docker-practice): docker-practice <font color=green>**`recommend`**</font>
 
 ## linux
-- [linux-practice](https://github.com/xiaozhiliaoo/linux-practice):linux-practice
+- [linux-practice](https://github.com/xiaozhiliaoo/linux-practice):linux-practice <font color=green>**`prepare`**</font>
 
 ## language
 - [thinkinginjava-practice](https://github.com/xiaozhiliaoo/thinkinginjava-practice): thinkinginjava-practice <font color=green>**`recommend`**</font>
 - [go-practice](https://github.com/xiaozhiliaoo/go-practice): go-practice
 - [python-practice](https://github.com/xiaozhiliaoo/python-practice): python-practice
 - [javascript-practice](https://github.com/xiaozhiliaoo/javascript-practice): javascript-practice
-- [designpattern-practice](https://github.com/xiaozhiliaoo/designpattern-practice): designpattern-practice
+- [designpattern-practice](https://github.com/xiaozhiliaoo/designpattern-practice): designpattern-practice <font color=green>**`recommend`**</font>
 - [refactor-practice](https://github.com/xiaozhiliaoo/refactor-practice): refactor-practice
 - [websocket-practice](https://github.com/xiaozhiliaoo/websocket-practice): websocket-practice
 - [picocontainer-practice](https://github.com/xiaozhiliaoo/picocontainer-practice): picocontainer-practice
@@ -26,11 +26,11 @@
 - [cicd-practice](https://github.com/xiaozhiliaoo/cicd-practice): cicd-practice
 - [j2ee-practice](https://github.com/xiaozhiliaoo/j2ee-practice): j2ee-practice
 - [common-practice](https://github.com/xiaozhiliaoo/common-practice): common-practice
-- [effective-java-practice](https://github.com/xiaozhiliaoo/effective-java-practice): effective-java-practice
+- [effective-java-practice](https://github.com/xiaozhiliaoo/effective-java-practice): effective-java-practice <font color=green>**`recommend`**</font>
 - [jvm-practice](https://github.com/xiaozhiliaoo/jvm-practice): jvm-practice
 - [j2eepattern-practice](https://github.com/xiaozhiliaoo/j2eepattern-practice): j2eepattern-practice
 - [poeaa-practice](https://github.com/xiaozhiliaoo/poeaa-practice): poeaa-practice
-- [concurrency-practice](https://github.com/xiaozhiliaoo/concurrency-practice): concurrency-practice
+- [concurrency-practice](https://github.com/xiaozhiliaoo/concurrency-practice): concurrency-practice <font color=green>**`recommend`**</font>
 - [jmh-practice](https://github.com/xiaozhiliaoo/jmh-practice): jmh-practice
 - [distributed-practice](https://github.com/xiaozhiliaoo/distributed-practice): distributed-practice
 - [algorithm-practice](https://github.com/xiaozhiliaoo/algorithm-practice): algorithm-practice
