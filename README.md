@@ -39,7 +39,7 @@
 - [nginx-practice](https://github.com/xiaozhiliaoo/nginx-practice): nginx-practice
 - [zookeeper-practice](https://github.com/xiaozhiliaoo/zookeeper-practice): zookeeper-practice
 - [netty-practice](https://github.com/xiaozhiliaoo/netty-practice): netty-practice
-- [mq-practice](https://github.com/xiaozhiliaoo/mq-practice): mq-practice
+- [mq-practice](https://github.com/xiaozhiliaoo/mq-practice): mq-practice <font color=green>**`emtpy`**</font>
 - [kv-store-pracitce](https://github.com/xiaozhiliaoo/kv-store-pracitce): kv-store-pracitce
 - [sharding-practice](https://github.com/xiaozhiliaoo/sharding-practice): sharding-practice
 - [storm-practice](https://github.com/xiaozhiliaoo/storm-practice): storm-practice
