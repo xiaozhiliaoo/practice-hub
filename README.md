@@ -1,6 +1,11 @@
 # practice-hub
 > my practice hub: keep going deep，reuse solution，new technology learning
 
+> **`emtpy`**: the repositories is empty
+> **`recommend`**: the repositories is recommend
+> **`prepare`**: the repositories is prepare to publish
+
+
 ## cloud native
 - [k8s-practice](https://github.com/xiaozhiliaoo/k8s-practice): k8s-practice 
 - [docker-practice](https://github.com/xiaozhiliaoo/docker-practice): docker-practice <font color=green>**`recommend`**</font>
