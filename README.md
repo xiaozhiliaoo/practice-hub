@@ -52,6 +52,7 @@
 
 ## database 
 - [mysql-practice](https://github.com/xiaozhiliaoo/mysql-practice): mysql-practice
+- [data-access-practice](https://github.com/xiaozhiliaoo/data-access-practice): data-access-practice
 
 ## spring
 - [interface21](https://github.com/xiaozhiliaoo/interface21): interface21 <font color=green>**`recommend`**</font>
