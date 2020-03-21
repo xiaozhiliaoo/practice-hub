@@ -8,31 +8,31 @@
 
 
 ## cloud native
-- [k8s-practice](https://github.com/xiaozhiliaoo/k8s-practice): k8s-practice 
-- [docker-practice](https://github.com/xiaozhiliaoo/docker-practice): docker-practice <font color=green>**`recommend`**</font>
+- [k8s-practice](https://github.com/xiaozhiliaoo/k8s-practice): operate shell,install script,useful cmd 
+- [docker-practice](https://github.com/xiaozhiliaoo/docker-practice): base env,etcd,redis-sentinel,redis-cluster,mongo replica set,kafka cluster,zk cluster,rabbitmq images **`recommend`**
 
 ## linux
-- [linux-practice](https://github.com/xiaozhiliaoo/linux-practice):linux-practice <font color=green>**`prepare`**</font>
+- [linux-practice](https://github.com/xiaozhiliaoo/linux-practice):system programming(tlpi), bash <font color=green>**`prepare`**</font>
 
 ## language
-- [thinkinginjava-practice](https://github.com/xiaozhiliaoo/thinkinginjava-practice): thinkinginjava-practice <font color=green>**`recommend`**</font>
-- [go-practice](https://github.com/xiaozhiliaoo/go-practice): go-practice
+- [thinkinginjava-practice](https://github.com/xiaozhiliaoo/thinkinginjava-practice): thinkinginjava code and solution <font color=green>**`recommend`**</font>
+- [go-practice](https://github.com/xiaozhiliaoo/go-practice): gopl learing
 - [python-practice](https://github.com/xiaozhiliaoo/python-practice): python-practice
-- [javascript-practice](https://github.com/xiaozhiliaoo/javascript-practice): javascript-practice
-- [designpattern-practice](https://github.com/xiaozhiliaoo/designpattern-practice): designpattern-practice <font color=green>**`recommend`**</font>
-- [refactor-practice](https://github.com/xiaozhiliaoo/refactor-practice): refactor-practice
+- [javascript-practice](https://github.com/xiaozhiliaoo/javascript-practice): javascript base from miaov course
+- [designpattern-practice](https://github.com/xiaozhiliaoo/designpattern-practice):  GOF,POSA,J2EE Pattern，concurrency pattern,idiom。 <font color=green>**`recommend`**</font>
+- [refactor-practice](https://github.com/xiaozhiliaoo/refactor-practice): refactor martin fowler
 - [websocket-practice](https://github.com/xiaozhiliaoo/websocket-practice): websocket-practice
-- [picocontainer-practice](https://github.com/xiaozhiliaoo/picocontainer-practice): picocontainer-practice
+- [ioc-practice](https://github.com/xiaozhiliaoo/picocontainer-practice): ioc include:picocontainer,guice,spring ioc...
 - [lambda-practice](https://github.com/xiaozhiliaoo/lambda-practice): lambda-practice
-- [tdd-practice](https://github.com/xiaozhiliaoo/tdd-practice): tdd-practice
-- [test-practice](https://github.com/xiaozhiliaoo/test-practice): test-practice
+- [tdd-practice](https://github.com/xiaozhiliaoo/tdd-practice): tdd from keck beck
+- [test-practice](https://github.com/xiaozhiliaoo/test-practice): unit test, benchmark test
 - [servlet-practice](https://github.com/xiaozhiliaoo/servlet-practice): servlet-practice
-- [jdk-practice](https://github.com/xiaozhiliaoo/jdk-practice): jdk-practice
-- [cache-practice](https://github.com/xiaozhiliaoo/cache-practice): cache-practice
-- [task-schedule-practice](https://github.com/xiaozhiliaoo/task-schedule-practice): task-schedule-practice
-- [cicd-practice](https://github.com/xiaozhiliaoo/cicd-practice): cicd-practice
-- [j2ee-practice](https://github.com/xiaozhiliaoo/j2ee-practice): j2ee-practice
-- [common-practice](https://github.com/xiaozhiliaoo/common-practice): common-practice
+- [jdk-practice](https://github.com/xiaozhiliaoo/jdk-practice): jdk source code read, understand,design                                                              
+- [cache-practice](https://github.com/xiaozhiliaoo/cache-practice): caffeine,guava,ehcache,spring-cache
+- [task-schedule-practice](https://github.com/xiaozhiliaoo/task-schedule-practice): task schedule,spring task,quartz
+- [cicd-practice](https://github.com/xiaozhiliaoo/cicd-practice): jenkis,gitlab
+- [j2ee-practice](https://github.com/xiaozhiliaoo/j2ee-practice): j2ee development without ejb, j2ee design and development
+- [common-practice](https://github.com/xiaozhiliaoo/common-practice): for verify API,and libray usage, guava,apache-common...                                                                       
 - [effective-java-practice](https://github.com/xiaozhiliaoo/effective-java-practice): effective-java-practice <font color=green>**`recommend`**</font>
 - [jvm-practice](https://github.com/xiaozhiliaoo/jvm-practice): jvm-practice
 - [j2eepattern-practice](https://github.com/xiaozhiliaoo/j2eepattern-practice): j2eepattern-practice
@@ -43,6 +43,7 @@
 - [algorithm-practice](https://github.com/xiaozhiliaoo/algorithm-practice): algorithm-practice
 
 ## middleware
+- [rpc-practice](https://github.com/xiaozhiliaoo/rpc-practice) rpc-practice
 - [nginx-practice](https://github.com/xiaozhiliaoo/nginx-practice): nginx-practice
 - [zookeeper-practice](https://github.com/xiaozhiliaoo/zookeeper-practice): zookeeper-practice
 - [netty-practice](https://github.com/xiaozhiliaoo/netty-practice): netty-practice
@@ -61,6 +62,7 @@
 
 ## interview
 - [interviews](https://github.com/xiaozhiliaoo/interviews) : interview prepare <font color=green>**`private`**</font>
+- [KnowledgeSystem](https://github.com/xiaozhiliaoo/KnowledgeSystem) KnowledgeSystem
 
 ## notes
 - [geektime-notes](https://github.com/xiaozhiliaoo/geektime-notes): geektime-notes
