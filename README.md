@@ -4,6 +4,7 @@
 > **`emtpy`**: the repositories is empty
 > **`recommend`**: the repositories is recommend
 > **`prepare`**: the repositories is prepare to publish
+> **`private`**: you can`t access
 
 
 ## cloud native
@@ -57,6 +58,9 @@
 
 ## spring
 - [interface21](https://github.com/xiaozhiliaoo/interface21): interface21 <font color=green>**`recommend`**</font>
+
+## interview
+- [interviews](https://github.com/xiaozhiliaoo/interviews) : interview prepare <font color=green>**`private`**</font>
 
 ## notes
 - [geektime-notes](https://github.com/xiaozhiliaoo/geektime-notes): geektime-notes
