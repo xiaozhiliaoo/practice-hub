@@ -1,6 +1,8 @@
 # practice-hub
 > my practice hub: keep going deep，build knowledge system，reuse solution，new technology learning，avoid repeated learning but no progress
-
+>
+> project status:44 projects
+>
 > **`emtpy`**: the repositories is empty
 >
 > **`prepare`**: the repositories is prepare to publish，not very well
