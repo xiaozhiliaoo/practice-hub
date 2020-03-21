@@ -24,6 +24,7 @@
 - [picocontainer-practice](https://github.com/xiaozhiliaoo/picocontainer-practice): picocontainer-practice
 - [lambda-practice](https://github.com/xiaozhiliaoo/lambda-practice): lambda-practice
 - [tdd-practice](https://github.com/xiaozhiliaoo/tdd-practice): tdd-practice
+- [test-practice](https://github.com/xiaozhiliaoo/test-practice): test-practice
 - [servlet-practice](https://github.com/xiaozhiliaoo/servlet-practice): servlet-practice
 - [jdk-practice](https://github.com/xiaozhiliaoo/jdk-practice): jdk-practice
 - [cache-practice](https://github.com/xiaozhiliaoo/cache-practice): cache-practice
