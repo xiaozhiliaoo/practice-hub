@@ -48,6 +48,7 @@
 - [kv-store-pracitce](https://github.com/xiaozhiliaoo/kv-store-pracitce): kv-store-pracitce
 - [sharding-practice](https://github.com/xiaozhiliaoo/sharding-practice): sharding-practice
 - [storm-practice](https://github.com/xiaozhiliaoo/storm-practice): storm-practice
+- [search-practice](https://github.com/xiaozhiliaoo/search-practice): search-practice
 
 ## database 
 - [mysql-practice](https://github.com/xiaozhiliaoo/mysql-practice): mysql-practice
