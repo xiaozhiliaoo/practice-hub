@@ -60,7 +60,7 @@
 - [search-practice](https://github.com/xiaozhiliaoo/search-practice): es，solr，lucene
 
 ## database 
-- [mysql-practice](https://github.com/xiaozhiliaoo/mysql-practice): mysql-practice
+- [mysql-practice](https://github.com/xiaozhiliaoo/mysql-practice): offical doc learn,high performance mysql, innodb iternals
 - [data-access-practice](https://github.com/xiaozhiliaoo/data-access-practice): data-access-practice
 
 ## spring
@@ -70,6 +70,8 @@
 ## interview
 - [interviews](https://github.com/xiaozhiliaoo/interviews) : interview prepare <font color=green>**`private`**</font>
 - [KnowledgeSystem](https://github.com/xiaozhiliaoo/KnowledgeSystem) KnowledgeSystem Build
+- [my-resume](https://github.com/xiaozhiliaoo/my-resume) my resume **`empty`**
 
 ## notes
 - [geektime-notes](https://github.com/xiaozhiliaoo/geektime-notes): geektime-notes
+- [reading-notes](https://github.com/xiaozhiliaoo/reading-notes): reading-notes
