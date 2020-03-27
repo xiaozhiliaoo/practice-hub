@@ -1,7 +1,7 @@
 # practice-hub
 > my practice hub: keep going deep，build knowledge system，reuse solution，new technology learning，avoid repeated learning but no progress
 >
-> project status:44 projects
+> project status: 45 projects
 >
 > **`emtpy`**: the repositories is empty
 >
@@ -31,6 +31,7 @@
 - [websocket-practice](https://github.com/xiaozhiliaoo/websocket-practice): websocket-practice
 - [lambda-practice](https://github.com/xiaozhiliaoo/lambda-practice): lambda:java programming in a multicore world
 - [tdd-practice](https://github.com/xiaozhiliaoo/tdd-practice): tdd from keck beck
+- [animal-shark](https://github.com/xiaozhiliaoo/animal-shark): benchmark test toolkit
 - [test-practice](https://github.com/xiaozhiliaoo/test-practice): unit test, benchmark test
 - [servlet-practice](https://github.com/xiaozhiliaoo/servlet-practice): servlet-practice
 - [jdk-practice](https://github.com/xiaozhiliaoo/jdk-practice): jdk source code read, understand,design **`emtpy`**                                                             

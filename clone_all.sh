@@ -42,3 +42,5 @@ git clone https://github.com/xiaozhiliaoo/ioc-practice
 git clone https://github.com/xiaozhiliaoo/interviews
 git clone https://github.com/xiaozhiliaoo/KnowledgeSystem
 git clone https://github.com/xiaozhiliaoo/geektime-notes
+git clone https://github.com/xiaozhiliaoo/reading-notes
+git clone https://github.com/xiaozhiliaoo/animal-shark
