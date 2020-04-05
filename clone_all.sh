@@ -44,3 +44,4 @@ git clone https://github.com/xiaozhiliaoo/KnowledgeSystem
 git clone https://github.com/xiaozhiliaoo/geektime-notes
 git clone https://github.com/xiaozhiliaoo/reading-notes
 git clone https://github.com/xiaozhiliaoo/animal-shark
+git clone https://github.com/xiaozhiliaoo/go-probabilistic-ds-practice

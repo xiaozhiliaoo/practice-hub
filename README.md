@@ -22,10 +22,9 @@
 - [linux-practice](https://github.com/xiaozhiliaoo/linux-practice):system programming(tlpi), bash <font color=green>**`prepare`**</font>
 
 ## language
+
+### Java
 - [thinkinginjava-practice](https://github.com/xiaozhiliaoo/thinkinginjava-practice): thinkinginjava code and solution <font color=green>**`recommend`**</font>
-- [go-practice](https://github.com/xiaozhiliaoo/go-practice): gopl learing
-- [python-practice](https://github.com/xiaozhiliaoo/python-practice): python-practice
-- [javascript-practice](https://github.com/xiaozhiliaoo/javascript-practice): javascript base from miaov course
 - [designpattern-practice](https://github.com/xiaozhiliaoo/designpattern-practice):  GOF,POSA,J2EE Pattern，concurrency pattern,idiom。 <font color=green>**`recommend`**</font>
 - [refactor-practice](https://github.com/xiaozhiliaoo/refactor-practice): refactor martin fowler
 - [websocket-practice](https://github.com/xiaozhiliaoo/websocket-practice): websocket-practice
@@ -48,6 +47,20 @@
 - [jmh-practice](https://github.com/xiaozhiliaoo/jmh-practice): jmh for benchmarks
 - [distributed-practice](https://github.com/xiaozhiliaoo/distributed-practice): distributed paper collect                                                                            
 - [algorithm-practice](https://github.com/xiaozhiliaoo/algorithm-practice): data structure and algorithm,not leetcode
+
+### Golang
+- [go-practice](https://github.com/xiaozhiliaoo/go-practice): gopl learing
+- [go-probabilistic-ds-practice](https://github.com/xiaozhiliaoo/go-probabilistic-ds-practice): go probabilistic data structure practice
+
+
+### Python
+- [python-practice](https://github.com/xiaozhiliaoo/python-practice): python-practice
+
+
+### Javascript
+- [javascript-practice](https://github.com/xiaozhiliaoo/javascript-practice): javascript base from miaov course
+
+
 
 ## middleware
 - [rpc-practice](https://github.com/xiaozhiliaoo/rpc-practice) rpc trade off and rpc select choice
