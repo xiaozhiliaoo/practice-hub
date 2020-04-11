@@ -86,6 +86,11 @@
 - [KnowledgeSystem](https://github.com/xiaozhiliaoo/KnowledgeSystem) KnowledgeSystem Build
 - [my-resume](https://github.com/xiaozhiliaoo/my-resume) my resume **`empty`**
 
+## computer science(system software)
+- [operating-system-practice](https://github.com/xiaozhiliaoo/operating-system-practice) operating-system-practice **`empty`**
+- [database-system-practice](https://github.com/xiaozhiliaoo/database-system-practice) database-system-practice **`empty`**
+- [compliers-practice](https://github.com/xiaozhiliaoo/compliers-practice) compliers-practice **`empty`**
+
 ## notes
 - [geektime-notes](https://github.com/xiaozhiliaoo/geektime-notes): geektime-notes
 - [reading-notes](https://github.com/xiaozhiliaoo/reading-notes): reading-notes

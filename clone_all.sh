@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 git clone https://github.com/xiaozhiliaoo/k8s-practice
 git clone https://github.com/xiaozhiliaoo/docker-practice
 git clone https://github.com/xiaozhiliaoo/linux-practice
@@ -45,3 +46,6 @@ git clone https://github.com/xiaozhiliaoo/geektime-notes
 git clone https://github.com/xiaozhiliaoo/reading-notes
 git clone https://github.com/xiaozhiliaoo/animal-shark
 git clone https://github.com/xiaozhiliaoo/go-probabilistic-ds-practice
+git clone https://github.com/xiaozhiliaoo/operating-system-practice
+git clone https://github.com/xiaozhiliaoo/database-system-practice
+git clone https://github.com/xiaozhiliaoo/compliers-practice
