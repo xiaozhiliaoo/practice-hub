@@ -21,6 +21,9 @@
 ## linux bash && linux programming
 - [linux-practice](https://github.com/xiaozhiliaoo/linux-practice):system programming(tlpi), bash <font color=green>**`prepare`**</font>
 
+## book
+- [collect-book](https://github.com/xiaozhiliaoo/my-collectbook)
+
 ## language
 
 ### Java

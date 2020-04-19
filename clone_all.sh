@@ -49,3 +49,4 @@ git clone https://github.com/xiaozhiliaoo/go-probabilistic-ds-practice
 git clone https://github.com/xiaozhiliaoo/operating-system-practice
 git clone https://github.com/xiaozhiliaoo/database-system-practice
 git clone https://github.com/xiaozhiliaoo/compliers-practice
+git clone https://github.com/xiaozhiliaoo/my-collectbook
