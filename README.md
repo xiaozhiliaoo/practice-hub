@@ -28,7 +28,7 @@
 
 ### Java
 - [thinkinginjava-practice](https://github.com/xiaozhiliaoo/thinkinginjava-practice): thinkinginjava code and solution <font color=green>**`recommend`**</font>
-- [designpattern-practice](https://github.com/xiaozhiliaoo/designpattern-practice):  GOF,POSA,J2EE Pattern，concurrency pattern,idiom。 <font color=green>**`recommend`**</font>
+- [pattern-practice](https://github.com/xiaozhiliaoo/pattern-practice):  GOF,POSA,J2EE Pattern，concurrency pattern,idiom。 <font color=green>**`recommend`**</font>
 - [refactor-practice](https://github.com/xiaozhiliaoo/refactor-practice): refactor martin fowler
 - [websocket-practice](https://github.com/xiaozhiliaoo/websocket-practice): websocket-practice
 - [lambda-practice](https://github.com/xiaozhiliaoo/lambda-practice): lambda:java programming in a multicore world
