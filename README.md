@@ -27,6 +27,7 @@
 ## language
 
 ### Java
+- [java-base](https://github.com/xiaozhiliaoo/java-base-practice): reflect,ref,invoke,jcf,java.lang.util.*
 - [thinkinginjava-practice](https://github.com/xiaozhiliaoo/thinkinginjava-practice): thinkinginjava code and solution <font color=green>**`recommend`**</font>
 - [pattern-practice](https://github.com/xiaozhiliaoo/pattern-practice):  GOF,POSA,J2EE Pattern，concurrency pattern,idiom。 <font color=green>**`recommend`**</font>
 - [refactor-practice](https://github.com/xiaozhiliaoo/refactor-practice): refactor martin fowler
