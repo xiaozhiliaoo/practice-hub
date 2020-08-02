@@ -51,3 +51,4 @@ git clone https://github.com/xiaozhiliaoo/database-system-practice
 git clone https://github.com/xiaozhiliaoo/compliers-practice
 git clone https://github.com/xiaozhiliaoo/my-collectbook
 git clone https://github.com/xiaozhiliaoo/performance-practice.git
+git clone https://github.com/xiaozhiliaoo/develop-tools-practice
