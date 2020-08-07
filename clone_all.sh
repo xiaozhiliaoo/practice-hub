@@ -53,3 +53,4 @@ git clone https://github.com/xiaozhiliaoo/my-collectbook
 git clone https://github.com/xiaozhiliaoo/performance-practice.git
 git clone https://github.com/xiaozhiliaoo/develop-tools-practice
 git clone https://github.com/xiaozhiliaoo/architecture-practice
+git clone https://github.com/xiaozhiliaoo/continuous-inspection-practice

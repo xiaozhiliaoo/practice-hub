@@ -45,7 +45,7 @@
 - [jdk-practice](https://github.com/xiaozhiliaoo/jdk-practice): jdk source code read, understand,design **`emtpy`**                                                             
 - [cache-practice](https://github.com/xiaozhiliaoo/cache-practice): caffeine,guava,ehcache,spring-cache
 - [task-schedule-practice](https://github.com/xiaozhiliaoo/task-schedule-practice): task schedule,spring task,quartz
-- [cicd-practice](https://github.com/xiaozhiliaoo/cicd-practice): jenkis,gitlab【持续交付：发布可靠软件的系统方法】
+- [cicd-practice](https://github.com/xiaozhiliaoo/cicd-practice): jenkins,gitlab,pipeline【持续交付：发布可靠软件的系统方法】
 - [j2ee-practice](https://github.com/xiaozhiliaoo/j2ee-practice): Rod Johnson:j2ee development without ejb, j2ee design and development
 - [common-practice](https://github.com/xiaozhiliaoo/common-practice): for verify API,and library usage, guava,apache-common...                                                                       
 - [effective-java-practice](https://github.com/xiaozhiliaoo/effective-java-practice): effective-java-practice <font color=green>**`recommend`**</font>
@@ -86,10 +86,12 @@
 - [mysql-practice](https://github.com/xiaozhiliaoo/mysql-practice): offical doc learn,high performance mysql, innodb iternals
 - [data-access-practice](https://github.com/xiaozhiliaoo/data-access-practice): data-access-practice
 
-## engineering
+## software engineering
 - [performance-practice](https://github.com/xiaozhiliaoo/performance-practice) arthas, Brendan Gregg, perf,load,cpu,io,
 - [develop-tools-practice](https://github.com/xiaozhiliaoo/develop-tools-practice) idea,git,eclipse 
 - [architecture-practice](https://github.com/xiaozhiliaoo/architecture-practice) design principle,design smell,patterns,book
+- [continuous-inspection-practice](https://github.com/xiaozhiliaoo/continuous-inspection-practice) sonar in action,code static analysis, p3c,sonar lint practice,findBugs.bug patterns. improve code,design quality
+                                                                                                   
 
 ## spring
 - [interface21](https://github.com/xiaozhiliaoo/interface21): interface21 <font color=green>**`recommend`**</font>
