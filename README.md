@@ -55,7 +55,7 @@
 - [concurrency-practice](https://github.com/xiaozhiliaoo/concurrency-practice): juc,disruptor,jcip <font color=green>**`recommend`**</font>
 - [jmh-practice](https://github.com/xiaozhiliaoo/jmh-practice): jmh for benchmarks
 - [distributed-practice](https://github.com/xiaozhiliaoo/distributed-practice): distributed paper collect                                                                            
-- [algorithm-practice](https://github.com/xiaozhiliaoo/algorithm-practice): data structure and algorithm,not leetcode
+- [algorithm-practice](https://github.com/xiaozhiliaoo/algorithm-practice): data structure and algorithm,Algorithms by Robert Sedgewick,not leetcode
 
 ### Golang
 - [go-practice](https://github.com/xiaozhiliaoo/go-practice): gopl learing
@@ -89,7 +89,7 @@
 ## software engineering
 - [performance-practice](https://github.com/xiaozhiliaoo/performance-practice) arthas, Brendan Gregg, perf,load,cpu,io,
 - [develop-tools-practice](https://github.com/xiaozhiliaoo/develop-tools-practice) idea,git,eclipse 
-- [architecture-practice](https://github.com/xiaozhiliaoo/architecture-practice) design principle,design smell,patterns,book
+- [architecture-practice](https://github.com/xiaozhiliaoo/architecture-practice) design principle,ood, code smell,design smell,clean architecture, patterns,book,agile develop,xp 
 - [continuous-inspection-practice](https://github.com/xiaozhiliaoo/continuous-inspection-practice) sonar in action,code static analysis, p3c,sonar lint practice,findBugs.bug patterns. improve code,design quality
                                                                                                    
 
@@ -98,7 +98,7 @@
 - [ioc-practice](https://github.com/xiaozhiliaoo/ioc-practice): ioc include:picocontainer,guice,spring ioc...
 
 ## interview
-- [interviews](https://github.com/xiaozhiliaoo/interviews) : interview prepare <font color=green>**`private`**</font>
+- [interviews](https://github.com/xiaozhiliaoo/interviews) : interview prepare,leet&lint code,system design,work experience,project experience <font color=green>**`private`**</font>
 - [KnowledgeSystem](https://github.com/xiaozhiliaoo/KnowledgeSystem) KnowledgeSystem Build
 - [my-resume](https://github.com/xiaozhiliaoo/my-resume) my resume **`empty`**
 
