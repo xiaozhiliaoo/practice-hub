@@ -15,6 +15,10 @@
 > **`blank`**: not classification
 >
 
+
+## my blog
+- [xiaozhiliao](https://xiaozhiliaoo.github.io/)
+
 ## cloud native
 - [k8s-practice](https://github.com/xiaozhiliaoo/k8s-practice): rancher,helm,opertor,istio,operate shell,install script,useful cmd
 - [docker-practice](https://github.com/xiaozhiliaoo/docker-practice): base env,etcd,redis-sentinel,redis-cluster,mongo replica set,kafka cluster,zk cluster,rabbitmq images **`recommend`**
@@ -83,8 +87,9 @@
 - [data-access-practice](https://github.com/xiaozhiliaoo/data-access-practice): data-access-practice
 
 ## engineering
-- [performance-practice](https://github.com/xiaozhiliaoo/performance-practice)
-- [develop-tools-practice](https://github.com/xiaozhiliaoo/develop-tools-practice)
+- [performance-practice](https://github.com/xiaozhiliaoo/performance-practice) arthas, Brendan Gregg, perf,load,cpu,io,
+- [develop-tools-practice](https://github.com/xiaozhiliaoo/develop-tools-practice) idea,git,eclipse 
+- [architecture-practice](https://github.com/xiaozhiliaoo/architecture-practice) design principle,design smell,patterns,book
 
 ## spring
 - [interface21](https://github.com/xiaozhiliaoo/interface21): interface21 <font color=green>**`recommend`**</font>
