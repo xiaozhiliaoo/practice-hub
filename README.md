@@ -40,7 +40,7 @@
 - [lambda-practice](https://github.com/xiaozhiliaoo/lambda-practice): lambda:java programming in a multicore world
 - [tdd-practice](https://github.com/xiaozhiliaoo/tdd-practice): tdd from keck beck
 - [animal-shark](https://github.com/xiaozhiliaoo/animal-shark): benchmark test toolkit
-- [test-practice](https://github.com/xiaozhiliaoo/test-practice): unit test, benchmark test
+- [test-practice](https://github.com/xiaozhiliaoo/test-practice): unit test, benchmark test, junit5, hamcrest, easymock 
 - [servlet-practice](https://github.com/xiaozhiliaoo/servlet-practice): servlet-practice
 - [jdk-practice](https://github.com/xiaozhiliaoo/jdk-practice): jdk source code read, understand,design **`emtpy`**                                                             
 - [cache-practice](https://github.com/xiaozhiliaoo/cache-practice): caffeine,guava,ehcache,spring-cache
