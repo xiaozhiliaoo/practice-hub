@@ -1,6 +1,7 @@
 # practice-hub
 > my practice hub: keep going deep(持续深入)，build knowledge system(构建知识体系)，
-> reuse solution(复用方案)，new technology learning(新技术学习)，avoid repeated learning but no progress(避免重复学习但是没有进步)
+> reuse solution(复用方案)，new technology learning(新技术学习)，avoid repeated learning but no progress(避免重复学习但是没有进步)，
+> relearn fast(快速重捡)
 >
 > project status: 45 projects
 >
