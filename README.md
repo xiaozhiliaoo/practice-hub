@@ -27,8 +27,9 @@
 ## linux bash && linux programming
 - [linux-practice](https://github.com/xiaozhiliaoo/linux-practice):system programming(tlpi), bash <font color=green>**`prepare`**</font>
 
-## book
-- [collect-book](https://github.com/xiaozhiliaoo/my-collectbook)
+## collect
+- [my-collect](https://github.com/xiaozhiliaoo/my-collect) my collect about book,paper,slides,video,meeting,conference
+
 
 ## language
 
