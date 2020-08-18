@@ -94,6 +94,8 @@
 - [architecture-practice](https://github.com/xiaozhiliaoo/architecture-practice) design principle,ood, code smell,design smell,clean architecture, patterns,book,agile develop,xp 
 - [continuous-inspection-practice](https://github.com/xiaozhiliaoo/continuous-inspection-practice) sonar in action,code static analysis, p3c,sonar lint practice,findBugs.bug patterns. improve code,design quality
 - [project-management-practice](https://github.com/xiaozhiliaoo/project-management-practice.git) <font color=green>**`emtpy`**</font> project management see, think, compare
+- [spring-project-skeleton](https://github.com/xiaozhiliaoo/spring-project-skeleton) fast develop spring project(spring+springmvc+mybatis)
+
                                                                                                    
 
 ## spring
