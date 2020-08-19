@@ -106,6 +106,10 @@
 - [interviews](https://github.com/xiaozhiliaoo/interviews) : interview prepare,leet&lint code,system design,work experience,project experience <font color=green>**`private`**</font>
 - [KnowledgeSystem](https://github.com/xiaozhiliaoo/KnowledgeSystem) KnowledgeSystem Build
 - [my-resume](https://github.com/xiaozhiliaoo/my-resume) my resume **`empty`**
+    ##### System Design
+    - [news_feed](https://github.com/xiaozhiliaoo/news_feed) news feed system **`prepare`**
+
+    
 
 ## computer science(system software)
 - [operating-system-practice](https://github.com/xiaozhiliaoo/operating-system-practice) operating-system-practice **`empty`**
