@@ -55,3 +55,4 @@ git clone https://github.com/xiaozhiliaoo/develop-tools-practice
 git clone https://github.com/xiaozhiliaoo/architecture-practice
 git clone https://github.com/xiaozhiliaoo/continuous-inspection-practice
 git clone https://github.com/xiaozhiliaoo/project-management-practice.git
+git clone https://github.com/xiaozhiliaoo/refactor.git
