@@ -110,7 +110,14 @@
     ##### System Design
     - [news_feed](https://github.com/xiaozhiliaoo/news_feed) news feed system **`prepare`**
 
-    
+## source code reading
+- [Java Lang Package](https://github.com/xiaozhiliaoo/java-lang-reading): Java Lang Package design and implementation
+- [Java Collection Framework](https://github.com/xiaozhiliaoo/jcf-reading): Java Collection Framework  design and implementation
+- [Java Util Concurrency](https://github.com/xiaozhiliaoo/juc-reading): Java Util Concurrency design and implementation
+- [Java BIO/NIO/AIO](https://github.com/xiaozhiliaoo/io-reading): Java Lang IO,NIO design and implementation
+- [Guava Collection Framework](https://github.com/xiaozhiliaoo/guava-collections-reading) Guava Collection Framework design and implementation
+- [Guava Util Concurrency](https://github.com/xiaozhiliaoo/guava-concurrency-reading) Guava Util Concurrency design and implementation
+
 
 ## computer science(system software)
 - [operating-system-practice](https://github.com/xiaozhiliaoo/operating-system-practice) operating-system-practice **`empty`**
