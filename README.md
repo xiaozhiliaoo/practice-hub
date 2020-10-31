@@ -115,6 +115,7 @@
 - [Java Collection Framework](https://github.com/xiaozhiliaoo/jcf-reading): Java Collection Framework  design and implementation
 - [Java Util Concurrency](https://github.com/xiaozhiliaoo/juc-reading): Java Util Concurrency design and implementation
 - [Java BIO/NIO/AIO](https://github.com/xiaozhiliaoo/io-reading): Java Lang IO,NIO design and implementation
+- [Java Lambda&Stream](https://github.com/xiaozhiliaoo/java-function-stream-reading): java.util.function & java.util.stream package
 - [Guava Collection Framework](https://github.com/xiaozhiliaoo/guava-collections-reading) Guava Collection Framework design and implementation
 - [Guava Util Concurrency](https://github.com/xiaozhiliaoo/guava-concurrency-reading) Guava Util Concurrency design and implementation
 
