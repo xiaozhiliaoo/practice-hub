@@ -94,7 +94,7 @@
 - [project-management-practice](https://github.com/xiaozhiliaoo/project-management-practice.git) <font color=green>**`emtpy`**</font> project management see, think, compare
 - [spring-project-skeleton](https://github.com/xiaozhiliaoo/spring-project-skeleton) fast develop spring project(spring+springmvc+mybatis)
 - [@Refactor](https://github.com/xiaozhiliaoo/refactor) @Refactor annotation to record design smell and code smell.
-- [cicd-practice](https://github.com/xiaozhiliaoo/cicd-practice): jenkins,gitlab,pipeline【持续交付：发布可靠软件的系统方法】
+- [cicd-practice](https://github.com/xiaozhiliaoo/cicd-practice): jenkins,gitlab,pipeline two books: 《持续集成：软件质量改进和风险降低之道》 《持续交付：发布可靠软件的系统方法》
   - [test-practice](https://github.com/xiaozhiliaoo/test-practice):    Focus on **continous test** phase of continuous integration. unit test, benchmark test, junit5, hamcrest, easymock 
   - [continuous-inspection-practice](https://github.com/xiaozhiliaoo/continuous-inspection-practice) Focus on **continous inspection** phase of continuous integration. sonar in action,code static analysis, p3c,sonar lint practice,findBugs.bug patterns. improve code,design quality
 
