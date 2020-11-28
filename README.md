@@ -42,12 +42,10 @@
 - [lambda-practice](https://github.com/xiaozhiliaoo/lambda-practice): lambda:java programming in a multicore world
 - [tdd-practice](https://github.com/xiaozhiliaoo/tdd-practice): tdd from keck beck
 - [animal-shark](https://github.com/xiaozhiliaoo/animal-shark): benchmark test toolkit
-- [test-practice](https://github.com/xiaozhiliaoo/test-practice): unit test, benchmark test, junit5, hamcrest, easymock 
 - [servlet-practice](https://github.com/xiaozhiliaoo/servlet-practice): servlet-practice
 - [jdk-practice](https://github.com/xiaozhiliaoo/jdk-practice): jdk source code read, understand,design **`emtpy`**                                                             
 - [cache-practice](https://github.com/xiaozhiliaoo/cache-practice): caffeine,guava,ehcache,spring-cache
 - [task-schedule-practice](https://github.com/xiaozhiliaoo/task-schedule-practice): task schedule,spring task,quartz
-- [cicd-practice](https://github.com/xiaozhiliaoo/cicd-practice): jenkins,gitlab,pipeline【持续交付：发布可靠软件的系统方法】
 - [j2ee-practice](https://github.com/xiaozhiliaoo/j2ee-practice): Rod Johnson:j2ee development without ejb, j2ee design and development
 - [common-practice](https://github.com/xiaozhiliaoo/common-practice): for verify API,and library usage, guava,apache-common...                                                                       
 - [effective-java-practice](https://github.com/xiaozhiliaoo/effective-java-practice): effective-java-practice <font color=green>**`recommend`**</font>
@@ -93,10 +91,12 @@
 - [performance-practice](https://github.com/xiaozhiliaoo/performance-practice) arthas, Brendan Gregg, perf,load,cpu,io,
 - [develop-tools-practice](https://github.com/xiaozhiliaoo/develop-tools-practice) idea,git,eclipse 
 - [architecture-practice](https://github.com/xiaozhiliaoo/architecture-practice) design principle,ood, code smell,design smell,clean architecture, patterns,book,agile develop,xp 
-- [continuous-inspection-practice](https://github.com/xiaozhiliaoo/continuous-inspection-practice) sonar in action,code static analysis, p3c,sonar lint practice,findBugs.bug patterns. improve code,design quality
 - [project-management-practice](https://github.com/xiaozhiliaoo/project-management-practice.git) <font color=green>**`emtpy`**</font> project management see, think, compare
 - [spring-project-skeleton](https://github.com/xiaozhiliaoo/spring-project-skeleton) fast develop spring project(spring+springmvc+mybatis)
 - [@Refactor](https://github.com/xiaozhiliaoo/refactor) @Refactor annotation to record design smell and code smell.
+- [cicd-practice](https://github.com/xiaozhiliaoo/cicd-practice): jenkins,gitlab,pipeline【持续交付：发布可靠软件的系统方法】
+  - [test-practice](https://github.com/xiaozhiliaoo/test-practice):    Focus on **continous test** phase of continuous integration. unit test, benchmark test, junit5, hamcrest, easymock 
+  - [continuous-inspection-practice](https://github.com/xiaozhiliaoo/continuous-inspection-practice) Focus on **continous inspection** phase of continuous integration. sonar in action,code static analysis, p3c,sonar lint practice,findBugs.bug patterns. improve code,design quality
 
 ## distributed system infrastructure engineering
 - [tracing-practice](https://github.com/xiaozhiliaoo/tracing-practice) distributed tracing dapper,sleuth
