@@ -18,7 +18,8 @@
 
 
 ## my blog
-- [xiaozhiliao](https://xiaozhiliaoo.github.io/)
+- [xiaozhiliao](https://xiaozhiliaoo.github.io/) Focus on technology internals.
+- [51cto](https://blog.51cto.com/thinklili) Focus on technology problem solution.
 
 ## cloud native
 - [k8s-practice](https://github.com/xiaozhiliaoo/k8s-practice): rancher,helm,opertor,istio,operate shell,install script,useful cmd
