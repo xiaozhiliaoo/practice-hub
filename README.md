@@ -85,6 +85,8 @@
 - [sharding-practice](https://github.com/xiaozhiliaoo/sharding-practice): sharding jdbc,shard db and table
 - [storm-practice](https://github.com/xiaozhiliaoo/storm-practice): storm 
 - [search-practice](https://github.com/xiaozhiliaoo/search-practice): es，solr，lucene
+- [microservice-practice](https://github.com/xiaozhiliaoo/microservice-practice): microservice learning summary.
+
 
 ## database 
 - [mysql-practice](https://github.com/xiaozhiliaoo/mysql-practice): offical doc learn,high performance mysql, innodb iternals
