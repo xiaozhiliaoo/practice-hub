@@ -109,6 +109,7 @@
 
 ## Research
 - [blockchain-practice](https://github.com/xiaozhiliaoo/blockchain-practice) blockchain learning
+- [research-notes](https://github.com/xiaozhiliaoo/research-notes.git) explore interesting things
 
 
 ## Spring
