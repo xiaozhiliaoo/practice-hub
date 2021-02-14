@@ -142,6 +142,7 @@
 - [operating-system-practice](https://github.com/xiaozhiliaoo/operating-system-practice) operating-system-practice **`empty`**
 - [database-system-practice](https://github.com/xiaozhiliaoo/database-system-practice) database-system-practice **`empty`**
 - [compliers-practice](https://github.com/xiaozhiliaoo/compliers-practice) compliers-practice **`empty`**
+- [programming-language](https://github.com/xiaozhiliaoo/programming-language) PL learing
 
 ## notes
 - [geektime-notes](https://github.com/xiaozhiliaoo/geektime-notes): geektime-notes
