@@ -104,7 +104,10 @@
   - [continuous-inspection-practice](https://github.com/xiaozhiliaoo/continuous-inspection-practice) Focus on **continous inspection** phase of continuous integration. sonar in action,code static analysis, p3c,sonar lint practice,findBugs.bug patterns. improve code,design quality
 
 ## distributed system infrastructure engineering
-- [tracing-practice](https://github.com/xiaozhiliaoo/tracing-practice) distributed tracing dapper,sleuth
+- Observability
+  - [tracing-practice](https://github.com/xiaozhiliaoo/tracing-practice) distributed tracing dapper,sleuth
+  - [logging-practice](https://github.com/xiaozhiliaoo/logging-practice)  common logging with inotify, chukwa, FileBeat, fluentd, syslog , logstash, alibaba sls.
+  - [monitoring-pracitce](https://github.com/xiaozhiliaoo/monitoring-practice.git) prometheus, springboot-admin
 
 
 ## Research
