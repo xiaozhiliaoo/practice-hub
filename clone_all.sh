@@ -64,3 +64,5 @@ git clone https://github.com/xiaozhiliaoo/research-notes.git
 git clone https://github.com/xiaozhiliaoo/programming-language.git
 git clone https://github.com/xiaozhiliaoo/logging-practice.git
 git clone https://github.com/xiaozhiliaoo/monitoring-practice.git
+git clone https://github.com/xiaozhiliaoo/flink-practice.git
+git clone https://github.com/xiaozhiliaoo/distributed-transaction-practice.git
