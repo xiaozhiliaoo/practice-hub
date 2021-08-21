@@ -59,6 +59,7 @@
 - [distributed-practice](https://github.com/xiaozhiliaoo/distributed-practice): distributed paper collect                                                                            
 - [algorithm-practice](https://github.com/xiaozhiliaoo/algorithm-practice): data structure and algorithm,Algorithms by Robert Sedgewick,not leetcode
 - [java-security-practice](https://github.com/xiaozhiliaoo/java-security-practice): java-security. base64,bouncy castle. commons codec sample
+- [mybatis-practice](https://github.com/xiaozhiliaoo/mybatis-practice) learning mybatis
 
 ### Golang
 - [go-practice](https://github.com/xiaozhiliaoo/go-practice): gopl learing
