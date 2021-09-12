@@ -67,3 +67,5 @@ git clone https://github.com/xiaozhiliaoo/monitoring-practice.git
 git clone https://github.com/xiaozhiliaoo/flink-practice.git
 git clone https://github.com/xiaozhiliaoo/distributed-transaction-practice.git
 git clone https://github.com/xiaozhiliaoo/mybatis-practice.git
+git clone https://github.com/xiaozhiliaoo/validator-practice.git
+git clone https://github.com/xiaozhiliaoo/go-kv-practice.git

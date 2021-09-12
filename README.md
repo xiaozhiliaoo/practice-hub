@@ -64,6 +64,7 @@
 ### Golang
 - [go-practice](https://github.com/xiaozhiliaoo/go-practice): gopl learing
 - [go-probabilistic-ds-practice](https://github.com/xiaozhiliaoo/go-probabilistic-ds-practice): go probabilistic data structure practice
+- [go-kv-practice](https://github.com/xiaozhiliaoo/go-kv-practice): embedded kv(leveldb,boltdb)
 
 
 ### Python
