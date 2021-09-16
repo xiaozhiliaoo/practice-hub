@@ -70,3 +70,4 @@ git clone https://github.com/xiaozhiliaoo/mybatis-practice.git
 git clone https://github.com/xiaozhiliaoo/validator-practice.git
 git clone https://github.com/xiaozhiliaoo/go-kv-practice.git
 git clone https://github.com/xiaozhiliaoo/apue.3e-practice.git
+git clone https://github.com/xiaozhiliaoo/lsp-practice.git

@@ -28,6 +28,7 @@
 - [linux-practice](https://github.com/xiaozhiliaoo/linux-practice):system programming(tlpi), bash <font color=green>**`prepare`**</font>
 - [shell-practice](https://github.com/xiaozhiliaoo/shell-practice): learning shell. include shell books
 - [aupe](https://github.com/xiaozhiliaoo/apue.3e-practice.git) ：learning Advanced Programming in the UNIX Environment, Third Edition
+- [lsp](https://github.com/xiaozhiliaoo/lsp-practice)：learnig Linux System Programming, 2nd Edition
 
 
 ## collect
