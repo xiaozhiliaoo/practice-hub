@@ -17,9 +17,9 @@
 
 ## **Contents**
 
-[my-blog](#my blog)
+[my-blog](#blog)
 
-[cloud native](#cloud native)
+[cloud native](#cloudnative)
 
 [linux](#linux)
 
@@ -51,12 +51,12 @@
 
 
 
-## my blog
+## blog
 
 - [xiaozhiliao](https://xiaozhiliaoo.github.io/) Focus on technology internals.
 - [51cto](https://blog.51cto.com/thinklili) Focus on technology problem solution.
 
-## cloud native
+## cloudnative
 - [k8s-practice](https://github.com/xiaozhiliaoo/k8s-practice): rancher,helm,opertor,istio,operate shell,install script,useful cmd
 - [docker-practice](https://github.com/xiaozhiliaoo/docker-practice): base env,etcd,redis-sentinel,redis-cluster,mongo replica set,kafka cluster,zk cluster,rabbitmq images **`recommend`**
 
