@@ -21,7 +21,7 @@
 
 [cloud native](#cloud native)
 
-[linux bash && linux programming](#linux bash && linux programming)
+[linux](#linux)
 
 [collect](#collect)
 
@@ -33,9 +33,9 @@
 
 [database](#database)
 
-[software engineering](#software engineering)
+[software engineering](#software-engineering)
 
-[distributed system infrastructure engineering](#distributed system infrastructure engineering)
+[distributed system infrastructure engineering](#distributed-system-infrastructure-engineering)
 
 [Research](#Research)
 
@@ -43,9 +43,9 @@
 
 [interview](#interview)
 
-[source code reading](#source code reading)
+[source code reading](#sourceCode-reading)
 
-[computer science(system software)](#computer science(system software))
+[computer science](#computer-science)
 
 [notes](#notes)
 
@@ -60,7 +60,7 @@
 - [k8s-practice](https://github.com/xiaozhiliaoo/k8s-practice): rancher,helm,opertor,istio,operate shell,install script,useful cmd
 - [docker-practice](https://github.com/xiaozhiliaoo/docker-practice): base env,etcd,redis-sentinel,redis-cluster,mongo replica set,kafka cluster,zk cluster,rabbitmq images **`recommend`**
 
-## linux bash && linux programming
+## linux
 - [linux-practice](https://github.com/xiaozhiliaoo/linux-practice):system programming(tlpi), bash <font color=green>**`prepare`**</font>
 - [shell-practice](https://github.com/xiaozhiliaoo/shell-practice): learning shell. include shell books
 - [aupe](https://github.com/xiaozhiliaoo/apue.3e-practice.git) ：learning Advanced Programming in the UNIX Environment, Third Edition
@@ -136,7 +136,7 @@
 - [mysql-practice](https://github.com/xiaozhiliaoo/mysql-practice): offical doc learn,high performance mysql, innodb iternals
 - [data-access-practice](https://github.com/xiaozhiliaoo/data-access-practice): data-access-practice
 
-## software engineering
+## software-engineering
 - [performance-practice](https://github.com/xiaozhiliaoo/performance-practice) arthas, Brendan Gregg, perf,load,cpu,io,
 - [develop-tools-practice](https://github.com/xiaozhiliaoo/develop-tools-practice) idea,git,eclipse 
 - [architecture-practice](https://github.com/xiaozhiliaoo/architecture-practice) design principle,ood, code smell,design smell,clean architecture, patterns,book,agile develop,xp 
@@ -147,7 +147,7 @@
   - [test-practice](https://github.com/xiaozhiliaoo/test-practice):    Focus on **continous test** phase of continuous integration. unit test, benchmark test, junit5, hamcrest, easymock 
   - [continuous-inspection-practice](https://github.com/xiaozhiliaoo/continuous-inspection-practice) Focus on **continous inspection** phase of continuous integration. sonar in action,code static analysis, p3c,sonar lint practice,findBugs.bug patterns. improve code,design quality
 
-## distributed system infrastructure engineering
+## distributed-system-infrastructure-engineering
 - Observability
   - [tracing-practice](https://github.com/xiaozhiliaoo/tracing-practice) distributed tracing dapper,sleuth
   - [logging-practice](https://github.com/xiaozhiliaoo/logging-practice)  common logging with inotify, chukwa, FileBeat, fluentd, syslog , logstash, alibaba sls.
@@ -171,7 +171,7 @@
     ##### System Design
     - [news_feed](https://github.com/xiaozhiliaoo/news_feed) news feed system **`prepare`**
 
-## source code reading
+## sourceCode-reading
 - [Java Lang Package](https://github.com/xiaozhiliaoo/java-lang-reading): Java Lang Package design and implementation
 - [Java Collection Framework](https://github.com/xiaozhiliaoo/jcf-reading): Java Collection Framework  design and implementation
 - [Java Util Concurrency](https://github.com/xiaozhiliaoo/juc-reading): Java Util Concurrency design and implementation
@@ -186,7 +186,7 @@
 
 
 
-## computer science(system software)
+## computer-science
 - [operating-system-practice](https://github.com/xiaozhiliaoo/operating-system-practice) operating-system-practice **`empty`**
 - [database-system-practice](https://github.com/xiaozhiliaoo/database-system-practice) database-system-practice **`empty`**
 - [compliers-practice](https://github.com/xiaozhiliaoo/compliers-practice) compliers-practice **`empty`**
