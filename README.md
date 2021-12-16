@@ -130,6 +130,7 @@
 
 - [storm-practice](https://github.com/xiaozhiliaoo/storm-practice): storm
 - [flink-practice](https://github.com/xiaozhiliaoo/flink-practice): flink
+- [bigdata](https://github.com/xiaozhiliaoo/bigdata): BigData
 
 ## database 
 
@@ -195,3 +196,4 @@
 ## notes
 - [geektime-notes](https://github.com/xiaozhiliaoo/geektime-notes): geektime-notes
 - [reading-notes](https://github.com/xiaozhiliaoo/reading-notes): reading-notes
+- [meetup](https://github.com/xiaozhiliaoo/meetup.git): meetings I participated in.
