@@ -25,7 +25,7 @@ git clone https://github.com/xiaozhiliaoo/j2eepattern-practice
 git clone https://github.com/xiaozhiliaoo/poeaa-practice
 git clone https://github.com/xiaozhiliaoo/concurrency-practice
 git clone https://github.com/xiaozhiliaoo/jmh-practice
-git clone https://github.com/xiaozhiliaoo/distributed-practice
+git clone https://github.com/xiaozhiliaoo/distributed-system-practice
 git clone https://github.com/xiaozhiliaoo/algorithm-practice
 git clone https://github.com/xiaozhiliaoo/rpc-practice
 git clone https://github.com/xiaozhiliaoo/nginx-practice
@@ -49,7 +49,7 @@ git clone https://github.com/xiaozhiliaoo/go-probabilistic-ds-practice
 git clone https://github.com/xiaozhiliaoo/operating-system-practice
 git clone https://github.com/xiaozhiliaoo/database-system-practice
 git clone https://github.com/xiaozhiliaoo/compliers-practice
-git clone https://github.com/xiaozhiliaoo/my-collectbook
+git clone https://github.com/xiaozhiliaoo/my-collect
 git clone https://github.com/xiaozhiliaoo/performance-practice.git
 git clone https://github.com/xiaozhiliaoo/develop-tools-practice
 git clone https://github.com/xiaozhiliaoo/architecture-practice
@@ -71,3 +71,9 @@ git clone https://github.com/xiaozhiliaoo/validator-practice.git
 git clone https://github.com/xiaozhiliaoo/go-kv-practice.git
 git clone https://github.com/xiaozhiliaoo/apue.3e-practice.git
 git clone https://github.com/xiaozhiliaoo/lsp-practice.git
+git clone https://github.com/xiaozhiliaoo/network-practice.git
+git clone https://github.com/xiaozhiliaoo/computer-system-practice.git
+git clone https://github.com/xiaozhiliaoo/spring-test-practice.git
+git clone https://github.com/xiaozhiliaoo/rust-practice.git
+git clone https://github.com/xiaozhiliaoo/cplusplus-primer.git
+
