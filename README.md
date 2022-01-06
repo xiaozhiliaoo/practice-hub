@@ -15,6 +15,18 @@
 >
 > **`blank`**: not classification
 
+# The most important/interesting things
+
+对我来说，值得研究的技术也是我感兴趣有：**软件设计与架构**，**分布式系统**，**数据库**，**编程语言**。
+
+**软件设计与架构**：包括模式，系统架构，应用架构等。
+
+**分布式系统**：包括理论和工业实践，分布式计算，分布式存储，以及各类中间件系统。
+
+**数据库**：包括理论和工业实践，MySQL，PostgreSQL等以及分布式数据，云原生数据库等。
+
+**编程语言**：包括理论和具体编程语言。
+
 ## Repository Structure(仓库的通用结构)
 
 仓库通用目录结构分为以下格式：
@@ -158,7 +170,7 @@
 
 - [storm-practice](https://github.com/xiaozhiliaoo/storm-practice): storm
 - [flink-practice](https://github.com/xiaozhiliaoo/flink-practice): flink
-- [bigdata](https://github.com/xiaozhiliaoo/bigdata): BigData
+- [bigdata](https://github.com/xiaozhiliaoo/bigdata): BigData basic.
 
 ## database 
 
@@ -167,8 +179,8 @@
 
 ## software-engineering
 - [performance-practice](https://github.com/xiaozhiliaoo/performance-practice) arthas, Brendan Gregg, perf,load,cpu,io,
-- [develop-tools-practice](https://github.com/xiaozhiliaoo/develop-tools-practice) idea,git,eclipse 
-- [architecture-practice](https://github.com/xiaozhiliaoo/architecture-practice) design principle,ood, code smell,design smell,clean architecture, patterns,book,agile develop,xp,microservice architecture.
+- [develop-tools-practice](https://github.com/xiaozhiliaoo/develop-tools-practice) idea,git,eclipse,vim,makefile 
+- [architecture-practice](https://github.com/xiaozhiliaoo/architecture-practice) design principle,ood, ddd, code smell,design smell,clean architecture, patterns,book,agile develop,xp,microservice architecture, distributed architecture, cloud native architecture.
 - [project-management-practice](https://github.com/xiaozhiliaoo/project-management-practice.git) <font color=green>**`emtpy`**</font> project management see, think, compare
 - [spring-project-skeleton](https://github.com/xiaozhiliaoo/spring-project-skeleton) fast develop spring project(spring+springmvc+mybatis)
 - [@Refactor](https://github.com/xiaozhiliaoo/refactor) @Refactor annotation to record design smell and code smell.
