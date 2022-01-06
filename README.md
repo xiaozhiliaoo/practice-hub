@@ -3,7 +3,7 @@
 > reuse solution(复用方案)，new technology learning(新技术学习)，avoid repeated learning but no progress(避免重复学习但是没有进步)，
 > relearn fast(快速重捡)
 >
-> project status: 45 projects
+> **project status: 77 projects**
 >
 > **`emtpy`**: the repositories is empty
 >
@@ -35,7 +35,7 @@
 
 **daily** （该技术某一天的学习）
 
-​		**yyyy-MM-dd.md**
+​				--------**yyyy-MM-dd.md**
 
 **code**（该技术相关代码）
 
