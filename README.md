@@ -21,7 +21,7 @@
 
 **book**（该技术的相关书籍，slides等信息）
 
-​		**slides**(比较好的slides)
+​				--------**slides**(比较好的slides)
 
 **conference**（该技术的行业会议）
 
@@ -31,7 +31,7 @@
 
 **wikipedia** （该技术的维基百科，视频链接，awesome，相关人物，笔记等信息）
 
-​		**notes**（自己学习的笔记整理）
+​				--------**notes**（自己学习的笔记整理）
 
 **daily** （该技术某一天的学习）
 
@@ -43,7 +43,7 @@
 
 ## Catalog(目录)
 
-[my-blog](#blog)
+[我的博客](#blog)
 
 [cloud native](#cloudnative)
 
@@ -224,7 +224,7 @@ Focus on classic computers science course.
 - [database-system-practice](https://github.com/xiaozhiliaoo/database-system-practice) database-system-practice
 - [operating-system-practice](https://github.com/xiaozhiliaoo/operating-system-practice) operating-system-practice
 - [compliers-practice](https://github.com/xiaozhiliaoo/compliers-practice) compliers-practice
-- [programming-language](https://github.com/xiaozhiliaoo/programming-language) PL learing
+- [programming-language](https://github.com/xiaozhiliaoo/programming-language) PL learning
 - [algorithm-practice](https://github.com/xiaozhiliaoo/algorithm-practice): data structure and algorithm,Algorithms by Robert Sedgewick,not leetcode
 - [computer-system-practice](https://github.com/xiaozhiliaoo/computer-system-practice) computer architecture practice
 - [network-practice](https://github.com/xiaozhiliaoo/network-practice) network practice
