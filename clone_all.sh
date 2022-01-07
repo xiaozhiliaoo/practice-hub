@@ -76,4 +76,5 @@ git clone https://github.com/xiaozhiliaoo/computer-system-practice.git
 git clone https://github.com/xiaozhiliaoo/spring-test-practice.git
 git clone https://github.com/xiaozhiliaoo/rust-practice.git
 git clone https://github.com/xiaozhiliaoo/cplusplus-primer.git
+git clone https://github.com/xiaozhiliaoo/software-engineering-practice.git
 

@@ -178,6 +178,7 @@
 - [data-access-practice](https://github.com/xiaozhiliaoo/data-access-practice): data-access-practice
 
 ## software-engineering
+- [software-engineering ](https://github.com/xiaozhiliaoo/software-engineering-practice) course paper book
 - [performance-practice](https://github.com/xiaozhiliaoo/performance-practice) arthas, Brendan Gregg, perf,load,cpu,io,
 - [develop-tools-practice](https://github.com/xiaozhiliaoo/develop-tools-practice) idea,git,eclipse,vim,makefile 
 - [architecture-practice](https://github.com/xiaozhiliaoo/architecture-practice) design principle,ood, ddd, code smell,design smell,clean architecture, patterns,book,agile develop,xp,microservice architecture, distributed architecture, cloud native architecture.
@@ -210,7 +211,7 @@
 - [interviews](https://github.com/xiaozhiliaoo/interviews) : interview prepare,leet&lint code,system design,work experience,project experience <font color=green>**`private`**</font>
 - [KnowledgeSystem](https://github.com/xiaozhiliaoo/KnowledgeSystem) KnowledgeSystem Build
 - [my-resume](https://github.com/xiaozhiliaoo/my-resume) my resume **`empty`**
-    
+  
     ##### System Design
     - [news_feed](https://github.com/xiaozhiliaoo/news_feed) news feed system **`prepare`**
 
