@@ -27,6 +27,8 @@
 
 **[编程语言](#computer-science)**：包括理论和具体编程语言。
 
+[**行业**](https://github.com/xiaozhiliaoo/commerce-practice):包括开源，商业公司，证券市场，人物，基金会等业内通识。
+
 ## Repository Structure(仓库的通用结构)
 
 仓库通用目录结构分为以下格式：
@@ -152,6 +154,10 @@
 
 - [rustlings](https://github.com/xiaozhiliaoo/rustlings) pass all game,just for fun.
 
+### NodeJS
+
+[nodejs-practice](https://github.com/xiaozhiliaoo/nodejs-practice) learning NodeJS
+
 
 
 ## middleware
@@ -201,6 +207,7 @@
 ## Research
 - [blockchain-practice](https://github.com/xiaozhiliaoo/blockchain-practice) blockchain learning
 - [research-notes](https://github.com/xiaozhiliaoo/research-notes.git) explore interesting things
+- [commerce-practice](https://github.com/xiaozhiliaoo/commerce-practice) commerce history，company，person，industry，opensource，foundation，stock market，investment.
 
 
 ## Spring
