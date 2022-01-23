@@ -79,3 +79,4 @@ git clone https://github.com/xiaozhiliaoo/cplusplus-primer.git
 git clone https://github.com/xiaozhiliaoo/software-engineering-practice.git
 git clone https://github.com/xiaozhiliaoo/commerce-practice.git
 git clone https://github.com/xiaozhiliaoo/nodejs-practice.git
+git clone https://github.com/xiaozhiliaoo/translate-practice.git
