@@ -217,6 +217,7 @@
   - [logging-practice](https://github.com/xiaozhiliaoo/logging-practice)  common logging with inotify, chukwa, FileBeat, fluentd, syslog , logstash, alibaba sls.
   - [monitoring-pracitce](https://github.com/xiaozhiliaoo/monitoring-practice.git) prometheus, springboot-admin
 - [distributed-transaction-practice](https://github.com/xiaozhiliaoo/distributed-transaction-practice.git) seata, mq trancaction..
+- [distributed-scheduling-practice](https://github.com/xiaozhiliaoo/distributed-scheduling-practice) cluster scheduler architectures,yarn,mesos,borg,omega....
 - [etcd-raft](https://github.com/xiaozhiliaoo/etcd-raft) etcd raft standalone
 - [etcd-raftexample](https://github.com/xiaozhiliaoo/etcd-raftexample) etcd raftexample standalone
 

@@ -80,3 +80,4 @@ git clone https://github.com/xiaozhiliaoo/software-engineering-practice.git
 git clone https://github.com/xiaozhiliaoo/commerce-practice.git
 git clone https://github.com/xiaozhiliaoo/nodejs-practice.git
 git clone https://github.com/xiaozhiliaoo/translate-practice.git
+git clone https://github.com/xiaozhiliaoo/distributed-scheduling-practice.git
