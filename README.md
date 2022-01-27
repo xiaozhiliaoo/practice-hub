@@ -1,9 +1,17 @@
-# practice-hub(我的工程实践)
-> my practice hub: keep going deep(持续深入)，build knowledge system(构建知识体系)，
-> reuse solution(复用方案)，new technology learning(新技术学习)，avoid repeated learning but no progress(避免重复学习但是没有进步)，
-> relearn fast(快速重捡)
+# 我的工程实践
+> 持续深入：keep going deep
 >
-> **project status: 77 projects**
+> 构建知识体系：build knowledge system
+>
+> 复用方案：reuse solution
+>
+> 新技术学习：new technology learning
+>
+> 避免重复学习但是没有进步：new technology learning
+>
+> 快速重捡：relearn fast
+>
+> 
 >
 > **`emtpy`**: the repositories is empty
 >
@@ -12,10 +20,12 @@
 > **`recommend`**: the repositories is recommend
 >
 > **`private`**: you can`t access
->
-> **`blank`**: not classification
 
-# The most important/interesting things
+# The Big Picture
+
+![](./images/KnowledgeSystem.png)
+
+# The Most Important/Interesting Things
 
 对我来说，值得研究的技术也是我感兴趣有：**软件工程**，**分布式系统**，**数据库**，**编程语言**。
 
@@ -57,61 +67,54 @@
 
 ## Catalog(目录)
 
-[我的博客](#blog)
+[我的博客](#Blog)
 
-[cloud native](#cloudnative)
+[cloud native](#Cloudnative)
 
-[linux](#linux)
+[linux](#Linux)
 
-[collect](#collect)
+[language](#Language)
 
-[language](#language)
-
-[middleware](#middleware)
+[middleware](#Middleware)
 
 [BigData](#BigData)
 
-[database](#database)
+[database](#Database)
 
-[infrastructure](#infrastructure)
+[infrastructure](#Infrastructure)
 
-[software engineering](#software-engineering)
+[software engineering](#Software-engineering)
 
-[distributed system infrastructure engineering](#distributed-system-infrastructure-engineering)
+[distributed system infrastructure engineering](#Distributed-system-infrastructure-engineering)
 
 [Research](#Research)
 
 [Spring](#Spring)
 
-[interview](#interview)
+[interview](#Interview)
 
-[source code reading](#sourceCode-reading)
+[source code reading](#SourceCode-reading)
 
-[computer science](#computer-science)  
+[computer science](#Computer-science)  
 
-[others](#others)
+[others](#Others)
 
-## blog
+## Blog
 
 - [xiaozhiliao](https://xiaozhiliaoo.github.io/) Focus on technology internals.
 - [51cto](https://blog.51cto.com/thinklili) Focus on technology problem solution.
 
-## cloudnative
+## Cloudnative
 - [k8s-practice](https://github.com/xiaozhiliaoo/k8s-practice): rancher,helm,opertor,istio,operate shell,install script,useful cmd
 - [docker-practice](https://github.com/xiaozhiliaoo/docker-practice): base env,etcd,redis-sentinel,redis-cluster,mongo replica set,kafka cluster,zk cluster,rabbitmq images **`recommend`**
 
-## linux
+## Linux
 - [linux-practice](https://github.com/xiaozhiliaoo/linux-practice):system programming(tlpi), bash <font color=green>**`prepare`**</font>
 - [shell-practice](https://github.com/xiaozhiliaoo/shell-practice): learning shell. include shell books
 - [aupe](https://github.com/xiaozhiliaoo/apue.3e-practice.git) ：learning Advanced Programming in the UNIX Environment, Third Edition
 - [lsp](https://github.com/xiaozhiliaoo/lsp-practice)：learnig Linux System Programming, 2nd Edition
 
-
-## collect
-- [my-collect](https://github.com/xiaozhiliaoo/my-collect) my collect about book,paper,slides,video,meeting,conference
-
-
-## language
+## Language
 
 ### Java
 - [java-base](https://github.com/xiaozhiliaoo/java-base-practice): reflect,ref,invoke,jcf,java.lang.util.*
@@ -160,13 +163,12 @@
 
 
 
-## middleware
+## Middleware
 - [rpc-practice](https://github.com/xiaozhiliaoo/rpc-practice) rpc trade off and rpc select choice
 - [nginx-practice](https://github.com/xiaozhiliaoo/nginx-practice): nginx,haproxy
 - [zookeeper-practice](https://github.com/xiaozhiliaoo/zookeeper-practice): zk base,curator,distributed lock,
 - [netty-practice](https://github.com/xiaozhiliaoo/netty-practice): io,nio,aio,linux io model,netty-practice
 - [mq-practice](https://github.com/xiaozhiliaoo/mq-practice): rabbitmq,rocketmq,activemq <font color=green>**`emtpy`**</font>
-- [kv-store-pracitce](https://github.com/xiaozhiliaoo/kv-store-pracitce): redis,riak...
 - [sharding-practice](https://github.com/xiaozhiliaoo/sharding-practice): sharding jdbc,shard db and table
 - [akka-practice](https://github.com/xiaozhiliaoo/akka-practice) akka learning
 - [search-practice](https://github.com/xiaozhiliaoo/search-practice): es，solr，lucene
@@ -178,12 +180,17 @@
 - [flink-practice](https://github.com/xiaozhiliaoo/flink-practice): flink
 - [bigdata](https://github.com/xiaozhiliaoo/bigdata): BigData Basic. Hadoop ecosystem and more.
 
-## database 
+## Database 
 
 - [mysql-practice](https://github.com/xiaozhiliaoo/mysql-practice): offical doc learn,high performance mysql, innodb iternals
-- [data-access-practice](https://github.com/xiaozhiliaoo/data-access-practice): data-access-practice
+- [data-access-practice](https://github.com/xiaozhiliaoo/data-access-practice): data-access-practice.
+- [kv-store-pracitce](https://github.com/xiaozhiliaoo/kv-store-pracitce): redis,riak.
+- [cassandra-practice](https://github.com/xiaozhiliaoo/cassandra-practice) cassandra for fun.
+- [timeseries-db-practice](https://github.com/xiaozhiliaoo/timeseries-db-practice) time series.
+- [mongodb practice](https://github.com/xiaozhiliaoo/mongodb-practice) mongodb practice.
+- [graphdb practice](https://github.com/xiaozhiliaoo/graph-db-practice.git) graphdb practice.
 
-## infrastructure
+## Infrastructure
 
 [storage](https://github.com/xiaozhiliaoo/storage-infra-practice): storage system: filesystem,object storage,block storage and hardware,disk
 
@@ -191,7 +198,7 @@
 
 [compute](https://github.com/xiaozhiliaoo/compute-infra-practice): **`empty`**
 
-## software-engineering
+## Software-engineering
 - [software-engineering ](https://github.com/xiaozhiliaoo/software-engineering-practice) course paper book
 - [performance-practice](https://github.com/xiaozhiliaoo/performance-practice) arthas, Brendan Gregg, perf,load,cpu,io,
 - [develop-tools-practice](https://github.com/xiaozhiliaoo/develop-tools-practice) idea,git,eclipse,vim,makefile 
@@ -204,12 +211,14 @@
   - [spring-test-practice](https://github.com/xiaozhiliaoo/spring-test-practice) Focus on spring style project test. include Spring Test and Spring Boot Test
   - [continuous-inspection-practice](https://github.com/xiaozhiliaoo/continuous-inspection-practice) Focus on **continous inspection** phase of continuous integration. sonar in action,code static analysis, p3c,sonar lint practice,findBugs.bug patterns. improve code,design quality
 
-## distributed-system-infrastructure-engineering
+## Distributed-system-infrastructure-engineering
 - Observability
   - [tracing-practice](https://github.com/xiaozhiliaoo/tracing-practice) distributed tracing dapper,sleuth
   - [logging-practice](https://github.com/xiaozhiliaoo/logging-practice)  common logging with inotify, chukwa, FileBeat, fluentd, syslog , logstash, alibaba sls.
   - [monitoring-pracitce](https://github.com/xiaozhiliaoo/monitoring-practice.git) prometheus, springboot-admin
 - [distributed-transaction-practice](https://github.com/xiaozhiliaoo/distributed-transaction-practice.git) seata, mq trancaction..
+- [etcd-raft](https://github.com/xiaozhiliaoo/etcd-raft) etcd raft standalone
+- [etcd-raftexample](https://github.com/xiaozhiliaoo/etcd-raftexample) etcd raftexample standalone
 
 
 ## Research
@@ -222,7 +231,7 @@
 - [interface21](https://github.com/xiaozhiliaoo/interface21): interface21 <font color=green>**`recommend`**</font>
 - [ioc-practice](https://github.com/xiaozhiliaoo/ioc-practice): ioc include:picocontainer,guice,spring ioc...
 
-## interview
+## Interview
 - [interviews](https://github.com/xiaozhiliaoo/interviews) : interview prepare,leet&lint code,system design,work experience,project experience <font color=green>**`private`**</font>
 - [KnowledgeSystem](https://github.com/xiaozhiliaoo/KnowledgeSystem) KnowledgeSystem Build
 - [my-resume](https://github.com/xiaozhiliaoo/my-resume) my resume **`empty`**
@@ -230,7 +239,7 @@
     ##### System Design
     - [news_feed](https://github.com/xiaozhiliaoo/news_feed) news feed system **`prepare`**
 
-## sourceCode-reading
+## SourceCode-reading
 - [Java Lang Package](https://github.com/xiaozhiliaoo/java-lang-reading): Java Lang Package design and implementation  **`empty`**
 - [Java Collection Framework](https://github.com/xiaozhiliaoo/jcf-reading): Java Collection Framework  design and implementation **`empty`**
 - [Java Util Concurrency](https://github.com/xiaozhiliaoo/juc-reading): Java Util Concurrency design and implementation **`empty`**
@@ -245,7 +254,7 @@
 
 
 
-## computer-science
+## Computer-science
 Focus on classic computers science course.
 
 - [distributed-practice](https://github.com/xiaozhiliaoo/distributed-practice): distributed system       
@@ -257,8 +266,10 @@ Focus on classic computers science course.
 - [computer-system-practice](https://github.com/xiaozhiliaoo/computer-system-practice) computer architecture practice
 - [network-practice](https://github.com/xiaozhiliaoo/network-practice) network practice
 
-## others
+## Others
 - [geektime-notes](https://github.com/xiaozhiliaoo/geektime-notes): geektime-notes
 - [reading-notes](https://github.com/xiaozhiliaoo/reading-notes): reading-notes
 - [meetup](https://github.com/xiaozhiliaoo/meetup.git): meetings I participated in.
 - [translate](https://github.com/xiaozhiliaoo/translate-practice.git) : book translate and more...
+- [my-collect](https://github.com/xiaozhiliaoo/my-collect) my collect about book,paper,slides,video,meeting,conference
+- [monitor-base](https://github.com/xiaozhiliaoo/monitor-base.git) blog:https://blog.51cto.com/thinklili/2360858
