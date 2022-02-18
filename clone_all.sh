@@ -82,7 +82,7 @@ git clone https://github.com/xiaozhiliaoo/mysql-practice.git
 git clone https://github.com/xiaozhiliaoo/netty-practice.git
 git clone https://github.com/xiaozhiliaoo/network-practice.git
 git clone https://github.com/xiaozhiliaoo/news_feed.git
-git clone https://github.com/xiaozhiliaoo/nginx-practice.git
+git clone https://github.com/xiaozhiliaoo/webserver-practice.git
 git clone https://github.com/xiaozhiliaoo/nodejs-practice.git
 git clone https://github.com/xiaozhiliaoo/operating-system-practice.git
 git clone https://github.com/xiaozhiliaoo/pattern-practice.git
