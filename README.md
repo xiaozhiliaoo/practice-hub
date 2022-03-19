@@ -30,9 +30,9 @@
 
 # The Most Important/Interesting Things
 
-对我来说，值得研究的技术也是我感兴趣有：**软件工程**，**分布式系统**，**数据库**，**编程语言**。
+对我来说，值得研究的技术也是我感兴趣有：**软件工程**，**分布式系统**，**数据库**，**编程语言**。非技术的是行业。
 
-[**软件工程**](#software-engineering)：包括软件开发方法学，软件设计与架构，模式，系统架构，应用架构等。
+[**软件工程**](#software-engineering)：包括软件开发方法学，软件设计与架构，软件库和框架，模式，系统架构，应用架构等。
 
 [**分布式系统**](#computer-science)：包括理论和工业实践，分布式计算，分布式存储，以及各类中间件系统。
 
@@ -96,8 +96,6 @@
 
 [interview](#Interview)
 
-[source code reading](#SourceCode-reading)
-
 [computer science](#Computer-science)  
 
 [others](#Others)
@@ -121,7 +119,10 @@
 
 ### Java
 - [java-base](https://github.com/xiaozhiliaoo/java-base-practice): reflect,ref,invoke,jcf,java.lang.util.*
+- [effective-java-practice](https://github.com/xiaozhiliaoo/effective-java-practice): effective-java-practice <font color=green>**`recommend`**</font>
 - [thinkinginjava-practice](https://github.com/xiaozhiliaoo/thinkinginjava-practice): thinkinginjava code and solution <font color=green>**`recommend`**</font>
+- [jvm-practice](https://github.com/xiaozhiliaoo/jvm-practice): understanding jvm
+- [concurrency-practice](https://github.com/xiaozhiliaoo/concurrency-practice): juc,disruptor,jcip <font color=green>**`recommend`**</font>
 - [pattern-practice](https://github.com/xiaozhiliaoo/pattern-practice):  GOF,POSA,J2EE Pattern，concurrency pattern,idiom。 <font color=green>**`recommend`**</font>
 - [refactor-practice](https://github.com/xiaozhiliaoo/refactor-practice): refactor martin fowler
 - [websocket-practice](https://github.com/xiaozhiliaoo/websocket-practice): websocket-practice
@@ -129,16 +130,9 @@
 - [tdd-practice](https://github.com/xiaozhiliaoo/tdd-practice): tdd from keck beck
 - [animal-shark](https://github.com/xiaozhiliaoo/animal-shark): benchmark test toolkit
 - [servlet-practice](https://github.com/xiaozhiliaoo/servlet-practice): servlet-practice
-- [jdk-practice](https://github.com/xiaozhiliaoo/jdk-practice): jdk source code read, understand,design **`emtpy`**                                                             
 - [cache-practice](https://github.com/xiaozhiliaoo/cache-practice): caffeine,guava,ehcache,spring-cache
 - [task-schedule-practice](https://github.com/xiaozhiliaoo/task-schedule-practice): task schedule,spring task,quartz
-- [j2ee-practice](https://github.com/xiaozhiliaoo/j2ee-practice): Rod Johnson:j2ee development without ejb, j2ee design and development
 - [common-practice](https://github.com/xiaozhiliaoo/common-practice): for verify API,and library usage, guava,apache-common...                                                                       
-- [effective-java-practice](https://github.com/xiaozhiliaoo/effective-java-practice): effective-java-practice <font color=green>**`recommend`**</font>
-- [jvm-practice](https://github.com/xiaozhiliaoo/jvm-practice): understanding jvm
-- [j2eepattern-practice](https://github.com/xiaozhiliaoo/j2eepattern-practice): Core J2EE Patterns: Best Practices and Design Strategies
-- [poeaa-practice](https://github.com/xiaozhiliaoo/poeaa-practice): poeaa
-- [concurrency-practice](https://github.com/xiaozhiliaoo/concurrency-practice): juc,disruptor,jcip <font color=green>**`recommend`**</font>
 - [jmh-practice](https://github.com/xiaozhiliaoo/jmh-practice): jmh for benchmarks                                                                    
 - [java-security-practice](https://github.com/xiaozhiliaoo/java-security-practice): java-security. base64,bouncy castle. commons codec sample
 - [mybatis-practice](https://github.com/xiaozhiliaoo/mybatis-practice) learning mybatis
@@ -163,8 +157,6 @@
 ### NodeJS
 
 [nodejs-practice](https://github.com/xiaozhiliaoo/nodejs-practice) learning NodeJS
-
-
 
 ## Middleware
 - [rpc-practice](https://github.com/xiaozhiliaoo/rpc-practice) rpc trade off and rpc select choice
@@ -207,7 +199,6 @@
 - [develop-tools-practice](https://github.com/xiaozhiliaoo/develop-tools-practice) idea,git,eclipse,vim,makefile 
 - [architecture-practice](https://github.com/xiaozhiliaoo/architecture-practice) design principle,ood, ddd, code smell,design smell,clean architecture, patterns,book,agile develop,xp,microservice architecture, distributed architecture, cloud native architecture.
 - [project-management-practice](https://github.com/xiaozhiliaoo/project-management-practice.git) <font color=green>**`emtpy`**</font> project management see, think, compare
-- [spring-project-skeleton](https://github.com/xiaozhiliaoo/spring-project-skeleton) fast develop spring project(spring+springmvc+mybatis)
 - [@Refactor](https://github.com/xiaozhiliaoo/refactor) @Refactor annotation to record design smell and code smell.
 - [cicd-practice](https://github.com/xiaozhiliaoo/cicd-practice): jenkins,gitlab,pipeline two books: 《持续集成：软件质量改进和风险降低之道》 《持续交付：发布可靠软件的系统方法》
   - [test-practice](https://github.com/xiaozhiliaoo/test-practice):    Focus on **continous test** phase of continuous integration. unit test, benchmark test, junit5, hamcrest, easymock 
@@ -226,37 +217,22 @@
 
 
 ## Research
-- [blockchain-practice](https://github.com/xiaozhiliaoo/blockchain-practice) blockchain learning
 - [research-notes](https://github.com/xiaozhiliaoo/research-notes.git) explore interesting things
 - [commerce-practice](https://github.com/xiaozhiliaoo/commerce-practice) commerce history，company，person，industry，opensource，foundation，stock market，investment.
 
 
 ## Spring
-- [interface21](https://github.com/xiaozhiliaoo/interface21): interface21 <font color=green>**`recommend`**</font>
+- [interface21](https://github.com/xiaozhiliaoo/interface21): interface21 Rod Johnson:j2ee development without ejb, j2ee design and development <font color=green>**`recommend`**</font>
 - [ioc-practice](https://github.com/xiaozhiliaoo/ioc-practice): ioc include:picocontainer,guice,spring ioc...
+- [spring-project-skeleton](https://github.com/xiaozhiliaoo/spring-project-skeleton) fast develop spring project(spring+springmvc+mybatis)
+- [spring-practice](https://github.com/xiaozhiliaoo/spring-practice) spring learing.
 
 ## Interview
 - [interviews](https://github.com/xiaozhiliaoo/interviews) : interview prepare,leet&lint code,system design,work experience,project experience <font color=green>**`private`**</font>
-- [KnowledgeSystem](https://github.com/xiaozhiliaoo/KnowledgeSystem) KnowledgeSystem Build
 - [my-resume](https://github.com/xiaozhiliaoo/my-resume) my resume **`empty`**
-  
+
     ##### System Design
     - [news_feed](https://github.com/xiaozhiliaoo/news_feed) news feed system **`prepare`**
-
-## SourceCode-reading
-- [Java Lang Package](https://github.com/xiaozhiliaoo/java-lang-reading): Java Lang Package design and implementation  **`empty`**
-- [Java Collection Framework](https://github.com/xiaozhiliaoo/jcf-reading): Java Collection Framework  design and implementation **`empty`**
-- [Java Util Concurrency](https://github.com/xiaozhiliaoo/juc-reading): Java Util Concurrency design and implementation **`empty`**
-- [Java BIO/NIO/AIO](https://github.com/xiaozhiliaoo/io-reading): Java Lang IO,NIO design and implementation **`empty`**
-- [Java Lambda&Stream](https://github.com/xiaozhiliaoo/java-function-stream-reading): java.util.function & java.util.stream package **`empty`**
-- [Guava Collection Framework](https://github.com/xiaozhiliaoo/guava-collections-reading) Guava Collection Framework design and implementation **`empty`**
-- [Guava Util Concurrency](https://github.com/xiaozhiliaoo/guava-concurrency-reading) Guava Util Concurrency design and implementation **`empty`**
-- [Spring Framework](https://github.com/xiaozhiliaoo/spring-reading) Spring source code reading  **`empty`**
-- [SpringMVC Framework](https://github.com/xiaozhiliaoo/spring-mvc-reading) SpringMVC source code reading **`empty`**
-- [Mybatis](https://github.com/xiaozhiliaoo/mybatis-reading) Mybatis source code reading **`empty`**
-- [Tomcat](https://github.com/xiaozhiliaoo/tomcat-reading) Tomcat source code reading **`empty`**
-
-
 
 ## Computer-science
 Focus on classic computers science course.
