@@ -110,10 +110,10 @@
 - [docker-practice](https://github.com/xiaozhiliaoo/docker-practice): base env,etcd,redis-sentinel,redis-cluster,mongo replica set,kafka cluster,zk cluster,rabbitmq images **`recommend`**
 
 ## Linux
-- [linux-practice](https://github.com/xiaozhiliaoo/linux-practice):system programming(tlpi), bash <font color=green>**`prepare`**</font>
+- [linux-practice](https://github.com/xiaozhiliaoo/linux-practice) :system programming(tlpi), bash <font color=green>**`prepare`**</font>
 - [shell-practice](https://github.com/xiaozhiliaoo/shell-practice): learning shell. include shell books
 - [aupe](https://github.com/xiaozhiliaoo/apue.3e-practice.git) ：learning Advanced Programming in the UNIX Environment, Third Edition
-- [lsp](https://github.com/xiaozhiliaoo/lsp-practice)：learnig Linux System Programming, 2nd Edition
+- [lsp](https://github.com/xiaozhiliaoo/lsp-practice) ：learnig Linux System Programming, 2nd Edition
 
 ## Language
 
@@ -127,7 +127,6 @@
 - [refactor-practice](https://github.com/xiaozhiliaoo/refactor-practice): refactor martin fowler
 - [websocket-practice](https://github.com/xiaozhiliaoo/websocket-practice): websocket-practice
 - [lambda-practice](https://github.com/xiaozhiliaoo/lambda-practice): lambda:java programming in a multicore world
-- [tdd-practice](https://github.com/xiaozhiliaoo/tdd-practice): tdd from keck beck
 - [animal-shark](https://github.com/xiaozhiliaoo/animal-shark): benchmark test toolkit
 - [servlet-practice](https://github.com/xiaozhiliaoo/servlet-practice): servlet-practice
 - [cache-practice](https://github.com/xiaozhiliaoo/cache-practice): caffeine,guava,ehcache,spring-cache
@@ -164,7 +163,7 @@
 - [zookeeper-practice](https://github.com/xiaozhiliaoo/zookeeper-practice): zk base,curator,distributed lock,
 - [netty-practice](https://github.com/xiaozhiliaoo/netty-practice): io,nio,aio,linux io model,netty-practice
 - [mq-practice](https://github.com/xiaozhiliaoo/mq-practice): rabbitmq,rocketmq,activemq <font color=green>**`emtpy`**</font>
-- [sharding-practice](https://github.com/xiaozhiliaoo/sharding-practice): sharding jdbc,shard db and table
+- [db-sharding-practice](https://github.com/xiaozhiliaoo/db-sharding-practice): sharding jdbc,shard db and table
 - [akka-practice](https://github.com/xiaozhiliaoo/akka-practice) akka learning
 - [search-practice](https://github.com/xiaozhiliaoo/search-practice): es，solr，lucene
 - [microservice-practice](https://github.com/xiaozhiliaoo/microservice-practice): microservice learning summary.
@@ -182,7 +181,7 @@
 - [kv-store-pracitce](https://github.com/xiaozhiliaoo/kv-store-pracitce): redis,riak.
 - [cassandra-practice](https://github.com/xiaozhiliaoo/cassandra-practice) cassandra for fun.
 - [timeseries-db-practice](https://github.com/xiaozhiliaoo/timeseries-db-practice) time series.
-- [mongodb practice](https://github.com/xiaozhiliaoo/mongodb-practice) mongodb practice.
+- [document practice](https://github.com/xiaozhiliaoo/document-db-practice) mongodb practice.
 - [graphdb practice](https://github.com/xiaozhiliaoo/graph-db-practice.git) graphdb practice.
 
 ## Infrastructure
@@ -194,7 +193,7 @@
 [compute](https://github.com/xiaozhiliaoo/compute-infra-practice): **`empty`**
 
 ## Software-engineering
-- [software-engineering ](https://github.com/xiaozhiliaoo/software-engineering-practice) course paper book
+- [software-engineering](https://github.com/xiaozhiliaoo/software-engineering-practice) course paper book
 - [performance-practice](https://github.com/xiaozhiliaoo/performance-practice) arthas, Brendan Gregg, perf,load,cpu,io,
 - [develop-tools-practice](https://github.com/xiaozhiliaoo/develop-tools-practice) idea,git,eclipse,vim,makefile 
 - [architecture-practice](https://github.com/xiaozhiliaoo/architecture-practice) design principle,ood, ddd, code smell,design smell,clean architecture, patterns,book,agile develop,xp,microservice architecture, distributed architecture, cloud native architecture.
@@ -217,7 +216,6 @@
 
 
 ## Research
-- [research-notes](https://github.com/xiaozhiliaoo/research-notes.git) explore interesting things
 - [commerce-practice](https://github.com/xiaozhiliaoo/commerce-practice) commerce history，company，person，industry，opensource，foundation，stock market，investment.
 
 
@@ -225,14 +223,12 @@
 - [interface21](https://github.com/xiaozhiliaoo/interface21): interface21 Rod Johnson:j2ee development without ejb, j2ee design and development <font color=green>**`recommend`**</font>
 - [ioc-practice](https://github.com/xiaozhiliaoo/ioc-practice): ioc include:picocontainer,guice,spring ioc...
 - [spring-project-skeleton](https://github.com/xiaozhiliaoo/spring-project-skeleton) fast develop spring project(spring+springmvc+mybatis)
-- [spring-practice](https://github.com/xiaozhiliaoo/spring-practice) spring learing.
+- [spring-practice](https://github.com/xiaozhiliaoo/spring-practice) spring learning.
 
 ## Interview
 - [interviews](https://github.com/xiaozhiliaoo/interviews) : interview prepare,leet&lint code,system design,work experience,project experience <font color=green>**`private`**</font>
 - [my-resume](https://github.com/xiaozhiliaoo/my-resume) my resume **`empty`**
 
-    ##### System Design
-    - [news_feed](https://github.com/xiaozhiliaoo/news_feed) news feed system **`prepare`**
 
 ## Computer-science
 Focus on classic computers science course.
@@ -247,8 +243,7 @@ Focus on classic computers science course.
 - [network-practice](https://github.com/xiaozhiliaoo/network-practice) network practice
 
 ## Others
-- [geektime-notes](https://github.com/xiaozhiliaoo/geektime-notes): geektime-notes
-- [reading-notes](https://github.com/xiaozhiliaoo/reading-notes): reading-notes
+- [reading-note](https://github.com/xiaozhiliaoo/reading-note): reading-notes
 - [meetup](https://github.com/xiaozhiliaoo/meetup.git): meetings I participated in.
 - [translate](https://github.com/xiaozhiliaoo/translate-practice.git) : book translate and more...
 - [my-collect](https://github.com/xiaozhiliaoo/my-collect) my collect about book,paper,slides,video,meeting,conference
