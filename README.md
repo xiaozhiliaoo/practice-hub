@@ -1,4 +1,4 @@
-# 我的工程实践
+# 我的工程实践，知识管理实践
 
 **Website**: https://xiaozhiliaoo.github.io/practice-hub/
 
@@ -118,7 +118,7 @@
 ## Language
 
 ### Java
-- [java-base](https://github.com/xiaozhiliaoo/java-base-practice): reflect,ref,invoke,jcf,java.lang.util.*
+- [java-base](https://github.com/xiaozhiliaoo/java-practice): reflect,ref,invoke,jcf,java.lang.util.*
 - [effective-java-practice](https://github.com/xiaozhiliaoo/effective-java-practice): effective-java-practice <font color=green>**`recommend`**</font>
 - [thinkinginjava-practice](https://github.com/xiaozhiliaoo/thinkinginjava-practice): thinkinginjava code and solution <font color=green>**`recommend`**</font>
 - [jvm-practice](https://github.com/xiaozhiliaoo/jvm-practice): understanding jvm
